@@ -1,0 +1,28 @@
+.includeSelectionContainer {
+    margin: 1rem 2.5rem 1rem 2.5rem;
+    background-color: orange;
+    border-right: solid 0.4rem black;
+    border-radius: 0.25rem 0.25rem;  
+  }
+  
+.includeCheckboxGroup{
+    background-color: orange;
+    border-right: 2px solid black;
+    margin: 0 0.1rem 0.1rem 0;
+    border-radius: 2px;
+    min-width: 10vw;
+}
+  
+ul {
+    background-color: orange;
+}
+
+li {
+    border-right: 4px solid black;
+    margin-bottom: 0.2rem;
+    border-radius: 0.1rem;
+    display: block;
+    float: left;
+    width: 21vw;
+    overflow-wrap: break-word;
+}

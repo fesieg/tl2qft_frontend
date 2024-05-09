@@ -1,0 +1,26 @@
+.warningMessage {
+    background-color: darkorange;
+    border-right: solid 0.4rem red;
+    margin: 1rem 2.5rem 1rem 2.5rem;
+    border-radius: 0.25rem 0.25rem;
+    font-size: large;  
+    word-wrap: break-word;
+}
+
+.confirmationMessage {
+    background-color: darkorange;
+    border-right: solid 0.4rem green;
+    margin: 1rem 2.5rem 1rem 2.5rem;
+    border-radius: 0.25rem 0.25rem;
+    font-size: large;  
+    word-wrap: break-word;
+}
+
+.infoMessage {
+    background-color: orange;
+    border-right: solid 0.4rem black;
+    margin: 1rem 2.5rem 1rem 2.5rem;
+    border-radius: 0.25rem 0.25rem;
+    font-size: large;  
+    word-wrap: break-word;
+}

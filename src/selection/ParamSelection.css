@@ -1,0 +1,37 @@
+.paramSelectionContainer {
+    margin: 1rem 2.5rem 1rem 2.5rem
+}
+  
+.paramSelection {
+  background-color: orange;
+  border-right: solid 0.2rem black;
+  margin: 2rem 2rem;
+  border-radius: 0.25rem 0.25rem;  
+}
+
+label {
+  display: block;
+  font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+  margin: .4rem 0;
+  padding: 0.4rem 0.4rem;
+
+}
+
+input {
+  scale: 1.2;
+  margin-bottom: 0.75rem;
+}
+
+.infoMessage {
+  background-color: orange;
+  border-right: solid 0.4rem black;
+  margin: 1rem 2.5rem 1rem 2.5rem;
+  border-radius: 0.25rem 0.25rem;
+  font-size: large;  
+}
+
+

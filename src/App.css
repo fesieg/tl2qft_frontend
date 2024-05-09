@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+}
+
+header {
+  background-color: black;
+  border-bottom: solid 5px orange;
+  color: white;
+  font-size: xx-large;
+  padding: 0.25rem;
+}
+
+main {
+  background: white;
+  display: grid;
+  grid-template-columns: minmax(45vw, 22rem) 1fr;
+  padding: 0;
+  margin: 0;
+}
+
+.left {
+  background: white;
+  font-size: 2rem;
+  text-align: center;
+}
